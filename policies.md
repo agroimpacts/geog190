@@ -34,7 +34,7 @@ Final letter frades will allocated as follows, after weighting.
 
 | Grade Letter | Upper (+) | Middle | Lower (-) |
 |--------------|-----------|--------|-----------|
-| A            | \>99      | 95-99  | 90-95     |
+| A            | NA        | 95-100 | 90-95     |
 | B            | 88-90     | 83-88  | 80-83     |
 | C            | 78-80     | 73-78  | 70-73     |
 | D/F          | 68-70     | 60-68  | \<60 (F)  |

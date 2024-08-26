@@ -41,9 +41,10 @@ downloaded on your lab or own computer.
 
 ## Policies
 
-Please see the detailed course policies page for information on grading,
-communications, usage of AI, engaged time, and other important aspects
-of the course.
+Please see the detailed course
+[policies](https://github.com/agroimpacts/geog190/blob/main/policies.md)
+page for information on grading, communications, usage of AI, engaged
+time, and other important aspects of the course.
 
 ## Semester outline
 
