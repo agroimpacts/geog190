@@ -63,13 +63,12 @@ to learn more about this policy and what it entails.
 ### Use of Artificial Intelligence
 
 The use of artificial intelligence, including large language models
-(LLMs) and products based on them, such as ChatGPT, or other generative
-models, such as generative adversarial networks, is not allowed in this
-class. This prohibition applies to all labs, exams, or for final
-projects, and quizzes, and for any stage of work related to each
-(e.g. for research, brainstorming, formulating answers, etc.). Any use
-of AI will constitute plagiarism, and will be referred to the University
-Administration.
+(LLMs) and products based on them, such as ChatGPT, or other forms of
+generative models, is not allowed in this class. This prohibition
+applies to all labs, exams, final projects, and quizzes, and for any
+stage of work related to each (e.g. for research, brainstorming,
+formulating answers, etc.). Any use of AI will constitute plagiarism,
+and will be referred to the University Administration.
 
 ## Additional Information
 
