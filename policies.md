@@ -70,6 +70,29 @@ stage of work related to each (e.g. for research, brainstorming,
 formulating answers, etc.). Any use of AI will constitute plagiarism,
 and will be referred to the University Administration.
 
+## Class Operations
+
+Lectures, labs, and office hours will be held in person, although office
+hours may sometimes be via Zoom.
+
+If one or more of us has to isolate due to COVID or other illness, the
+following contingencies will be made to ensure continuity of learning:
+
+- If the instructor is in quarantine, but otherwise well, lecture/lab
+  will be delivered via Zoom. Zoom will not be offered as a default
+  option this semester
+
+- If the instructor is not well enough to deliver the material, then we
+  will provide a previously recorded lecture, or, if needed, postpone
+  the lecture/lab.
+
+If a student feels unwell and tests positive for COVID, please do not
+attend class. Contact us and we can make arrangements. If you have to
+miss class, the lectures track the readings, assignments, and labs
+pretty closely, so there is little risk of falling behind. Please note
+that, unless there is a University-mandated change in policy,
+<u>**remote or asynchronous attendance is not an option**</u>.
+
 ## Additional Information
 
 ### Student Accessibility Services
