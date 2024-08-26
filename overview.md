@@ -12,11 +12,11 @@
 
 **Instructors**
 
-| Name          | Office location | Office hours            |
-|---------------|-----------------|-------------------------|
-| Lyndon Estes  | Jefferson 201C  | Tuesday 1-3 pm; by appt |
-| Khadija Nisar |                 |                         |
-| Ann Raj       |                 |                         |
+| Name          | Office location | Office hours                  |
+|---------------|-----------------|-------------------------------|
+| Lyndon Estes  | Jefferson 201C  | Tuesday 1-3 pm; by appt       |
+| Khadija Nisar | Jefferson 220B  | Tuesday, Thursday, 9-10:30 AM |
+| Ann Raj       | Jefferson       | Tuesday 10:30-13:30 AM        |
 
 ## Course Materials
 
