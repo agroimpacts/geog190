@@ -47,46 +47,46 @@ time, and other important aspects of the course.
 
 ## Semester outline
 
-| Class/lab   | Date  | Topic                                            | Assignment/lab                                           |
-|-------------|-------|--------------------------------------------------|----------------------------------------------------------|
-| 1           | 8/26  | Course overview/Intro to GIS                     | Read Chapter 1                                           |
-| 2           | 8/28  | Data models                                      | Read Chapter 2                                           |
-| Lab 1       | 8/30  |                                                  | Lab 1: Intro to ArcPro                                   |
-| 3           | 9/4   | Map projections and coordinate reference systems | Read Chapter 3                                           |
-| 4           | 9/9   | Map projections and coordinate reference systems |                                                          |
-| 5           | 9/11  | Map-making and digitizing                        | Read Chapter 4                                           |
-| Lab 2       | 9/13  |                                                  | Projections                                              |
-| 6           | 9/16  | Map-making and digitizing                        |                                                          |
-| 7           | 9/18  | GPS and satellite images                         | Read Chapter 5 (193-204) & Chapter 6                     |
-| Lab 3       | 9/20  |                                                  | Data entry/Digitizing/Topology                           |
-| 8           | 9/23  | GPS and satellite images                         | Read Chapter 6                                           |
-| 9           | 9/25  | Digital data                                     | Read Chapter 7                                           |
-| Lab 4       | 9/27  | Digital data                                     | Digital data and images (plus satellite images)          |
-| 10          | 9/30  | Digital data                                     |                                                          |
-| 11          | 10/2  | Attributes and tables                            | Read Chapter 8                                           |
-| Lab 5       | 10/4  |                                                  | Tables                                                   |
-| 12          | 10/7  | Attributes and tables                            |                                                          |
-| 13          | 10/9  | Intro to Spatial analysis                        | Read Chapter 9                                           |
-| Lab 6       | 10/11 | Intro to Spatial analysis                        | Spatial selection, spatial analysis, buffering, overlays |
-| 14          | 10/16 | Midterm                                          | Take-home                                                |
-| No lab      | 10/18 | Midterm                                          |                                                          |
-| 15          | 10/21 | Intro to Spatial analysis                        |                                                          |
-| 16          | 10/23 | Raster analysis                                  | Read Chapter 10                                          |
-| Lab 7       | 10/25 |                                                  | Raster analysis                                          |
-| 17          | 10/28 | Raster analysis                                  |                                                          |
-| 18          | 10/30 | Terrain analysis                                 | Read Chapter 11                                          |
-| Lab 8       | 11/1  |                                                  | Terrain analysis                                         |
-| 19          | 11/4  | Terrain estimation                               |                                                          |
-| 21          | 11/6  | Spatial estimation                               | Read Chapter 12                                          |
-| Lab 9       |       |                                                  | Interpolation and sampling                               |
-| 23          | 11/11 | Spatial estimation                               |                                                          |
-| 24          | 11/13 | Spatial models                                   | Read Chapter 13                                          |
-| Lab 10      |       | Spatial models                                   | Cartographic modeling I&II                               |
-| 25          | 11/18 | Spatial models                                   |                                                          |
-| 26          | 11/20 | Data Quality                                     | Read Chapter 14                                          |
-| Project lab | 11/22 | Final projects                                   | Prep ideas/proposals                                     |
-| 27          | 11/25 | Final projects                                   | Present proposal                                         |
-| 28          | 12/2  | Final projects                                   | Work on project                                          |
-| 29          | 12/4  | Final projects                                   | Work on project                                          |
-| 30          | 12/8  | Final projects                                   | Work on project                                          |
-| Finals      | 12/16 | Final project presentations                      |                                                          |
+| Class/lab        | Date  | Topic                                            | Assignment/lab                                                         |
+|------------------|-------|--------------------------------------------------|------------------------------------------------------------------------|
+| 1                | 8/26  | Course overview/Intro to GIS                     | Read Chapter 1                                                         |
+| 2                | 8/28  | Data models                                      | Read Chapter 2                                                         |
+| Lab 1            | 8/30  |                                                  | Lab 1: Intro to ArcPro                                                 |
+| 3                | 9/4   | Map projections and coordinate reference systems | Read Chapter 3                                                         |
+| 4                | 9/9   | Map projections and coordinate reference systems |                                                                        |
+| 5                | 9/11  | Map-making and digitizing                        | Read Chapter 4                                                         |
+| Lab 2            | 9/13  |                                                  | (*Lab 1 due*) Projections                                              |
+| 6                | 9/16  | Map-making and digitizing                        |                                                                        |
+| 7                | 9/18  | GPS and satellite images                         | Read Chapter 5 (193-204) & Chapter 6                                   |
+| Lab 3            | 9/20  |                                                  | (*Lab 2 due*) Data entry/Digitizing/Topology                           |
+| 8                | 9/23  | GPS and satellite images                         | Read Chapter 6                                                         |
+| 9                | 9/25  | Digital data                                     | Read Chapter 7                                                         |
+| Lab 4            | 9/27  | Digital data                                     | (*Lab 3 due*) Digital data and images (plus satellite images)          |
+| 10               | 9/30  | Digital data                                     |                                                                        |
+| 11               | 10/2  | Attributes and tables                            | Read Chapter 8                                                         |
+| Lab 5            | 10/4  |                                                  | (*Lab 4 due*) Tables                                                   |
+| 12               | 10/7  | Attributes and tables                            |                                                                        |
+| 13               | 10/9  | Intro to Spatial analysis                        | Read Chapter 9                                                         |
+| Lab 6            | 10/11 | Intro to Spatial analysis                        | (*Lab 5 due*) Spatial selection, spatial analysis, buffering, overlays |
+| 14               | 10/16 | Midterm                                          | Take-home                                                              |
+| Lab help session | 10/18 | Midterm                                          |                                                                        |
+| 15               | 10/21 | Intro to Spatial analysis                        | *Midterm due*                                                          |
+| 16               | 10/23 | Raster analysis                                  | Read Chapter 10                                                        |
+| Lab 7            | 10/25 |                                                  | (*Lab 6 due*)Raster analysis                                           |
+| 17               | 10/28 | Raster analysis                                  |                                                                        |
+| 18               | 10/30 | Terrain analysis                                 | Read Chapter 11                                                        |
+| Lab 8            | 11/1  |                                                  | (*Lab 7 due*) Terrain analysis                                         |
+| 19               | 11/4  | Terrain estimation                               |                                                                        |
+| 21               | 11/6  | Spatial estimation                               | Read Chapter 12                                                        |
+| Lab 9            | 11/8  |                                                  | (*Lab 8 due*) Interpolation and sampling                               |
+| 23               | 11/11 | Spatial estimation                               |                                                                        |
+| 24               | 11/13 | Spatial models                                   | Read Chapter 13                                                        |
+| Lab 10           | 11/15 | Spatial models                                   | (*Lab 9 due*) Cartographic modeling I&II                               |
+| 25               | 11/18 | Spatial models                                   |                                                                        |
+| 26               | 11/20 | Data Quality                                     | Read Chapter 14                                                        |
+| Project lab      | 11/22 | Final projects                                   | (*Lab 10 due*) Prep ideas/proposals                                    |
+| 27               | 11/25 | Final projects                                   | Present proposal                                                       |
+| 28               | 12/2  | Final projects                                   | Work on project                                                        |
+| 29               | 12/4  | Final projects                                   | Work on project                                                        |
+| 30               | 12/8  | Final projects                                   | Work on project                                                        |
+| Finals           | 12/16 | Final project presentations                      |                                                                        |
