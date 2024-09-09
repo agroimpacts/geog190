@@ -54,10 +54,10 @@ time, and other important aspects of the course.
 | Lab 1            | 8/30  |                                                  | Lab 1: Intro to ArcPro                                                 |
 | 3                | 9/4   | Map projections and coordinate reference systems | Read Chapter 3                                                         |
 | 4                | 9/9   | Map projections and coordinate reference systems |                                                                        |
-| 5                | 9/11  | Map-making and digitizing                        | Read Chapter 4                                                         |
+| 5                | 9/11  | Projections cont./Map-making & digitizing        | Read Chapter 4                                                         |
 | Lab 2            | 9/13  |                                                  | (*Lab 1 due*) Projections                                              |
-| 6                | 9/16  | Map-making and digitizing                        |                                                                        |
-| 7                | 9/18  | GPS and satellite images                         | Read Chapter 5 (193-204) & Chapter 6                                   |
+| 6                | 9/16  | Map-making & digitizing                          |                                                                        |
+| 7                | 9/18  | Map-making & digitizing/GPS & satellite images   | Read Chapter 5 (193-204) & Chapter 6                                   |
 | Lab 3            | 9/20  |                                                  | (*Lab 2 due*) Data entry/Digitizing/Topology                           |
 | 8                | 9/23  | GPS and satellite images                         | Read Chapter 6                                                         |
 | 9                | 9/25  | Digital data                                     | Read Chapter 7                                                         |
