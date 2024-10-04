@@ -49,12 +49,15 @@ Final letter grades will allocated as follows, after weighting.
 The following provides an approximate breakdown for the 180 total hours
 you are expected to spend on this class over the course of the semester.
 
-| Component        | Time |
-|:-----------------|-----:|
-| Lectures         |   34 |
-| Reading and Labs |   92 |
-| Exam             |   14 |
-| Final project    |   40 |
+| Component     | Time |
+|:--------------|-----:|
+| Lectures      |   34 |
+| Reading       |   14 |
+| Labs          |   78 |
+| Exam          |   14 |
+| Final project |   40 |
+
+    [1] 180
 
 ## Academic Integrity
 
