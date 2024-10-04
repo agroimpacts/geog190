@@ -57,8 +57,6 @@ you are expected to spend on this class over the course of the semester.
 | Exam          |   14 |
 | Final project |   40 |
 
-    [1] 180
-
 ## Academic Integrity
 
 University’s policies on academic integrity will be strictly enforced.
